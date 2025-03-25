@@ -2,7 +2,7 @@
 
 A modern task management application built with React, TypeScript, and Supabase. This application allows users to create, manage, and track their tasks with a beautiful and intuitive interface.
 
-![Task Management App](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=2072)
+![Task Management App](https://ibb.co/PvDWBqR2)
 
 ## Features
 
@@ -166,10 +166,10 @@ CREATE TABLE tasks (
 ## UI Screenshots
 
 ### Authentication Page
-![Auth Page](https://images.unsplash.com/photo-1517292987719-0369a794ec0f?auto=format&fit=crop&q=80&w=2074)
+![Auth Page](https://ibb.co/ycyYDtmx)
 
 ### Task Management Dashboard
-![Dashboard](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=2072)
+![Dashboard](https://ibb.co/PvDWBqR2)
 
 ## Security
 
